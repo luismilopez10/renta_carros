@@ -1,0 +1,12 @@
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Broker\bin\Release\netcoreapp3.1\pryRentaCarros.Broker.deps.json
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Broker\bin\Release\netcoreapp3.1\pryRentaCarros.Broker.dll
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Broker\bin\Release\netcoreapp3.1\pryRentaCarros.Broker.pdb
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Broker\bin\Release\netcoreapp3.1\pryRentaCarros.Model.dll
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Broker\bin\Release\netcoreapp3.1\pryRentaCarros.Model.pdb
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Broker\obj\Release\netcoreapp3.1\pryRentaCarros.Broker.csprojAssemblyReference.cache
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Broker\obj\Release\netcoreapp3.1\pryRentaCarros.Broker.AssemblyInfoInputs.cache
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Broker\obj\Release\netcoreapp3.1\pryRentaCarros.Broker.AssemblyInfo.cs
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Broker\obj\Release\netcoreapp3.1\pryRentaCarros.Broker.csproj.CoreCompileInputs.cache
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Broker\obj\Release\netcoreapp3.1\pryRentaCarros.Broker.csproj.CopyComplete
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Broker\obj\Release\netcoreapp3.1\pryRentaCarros.Broker.dll
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Broker\obj\Release\netcoreapp3.1\pryRentaCarros.Broker.pdb

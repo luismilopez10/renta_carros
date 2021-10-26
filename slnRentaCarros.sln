@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pryRentaCarros.BusinessRule", "pryRentaCarros.BusinessRule\pryRentaCarros.BusinessRule.csproj", "{F1070907-A0DE-4E5A-8013-70F555226A05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pryRentaCarros.Model", "pryRentaCarros.Model\pryRentaCarros.Model.csproj", "{7455F6C2-723A-4E52-847B-C0A171AC905A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pryRentaCarros.Broker", "pryRentaCarros.Broker\pryRentaCarros.Broker.csproj", "{19B8D9ED-A9B8-4228-8D17-C47D5E189B98}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "pryRentaCarros.DataBase", "pryRentaCarros.DataBase\pryRentaCarros.DataBase.sqlproj", "{9985C43A-BBED-4945-83BB-7B57A9066A4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pryRentaCarros.WebApi", "pryRentaCarros.WebApi\pryRentaCarros.WebApi.csproj", "{65F55DCB-33FA-41A1-AC86-DEB104F76E14}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pryRentaCarros.NUnit", "pryRentaCarros.NUnit\pryRentaCarros.NUnit.csproj", "{C6F90FE8-38AE-4867-8301-76F6D358908B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pryRentaCarros.WebApiHttps", "pryRentaCarros.WebApiHttps\pryRentaCarros.WebApiHttps.csproj", "{82E9A330-A5B0-4F85-864E-07B92D158832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1070907-A0DE-4E5A-8013-70F555226A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1070907-A0DE-4E5A-8013-70F555226A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1070907-A0DE-4E5A-8013-70F555226A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1070907-A0DE-4E5A-8013-70F555226A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7455F6C2-723A-4E52-847B-C0A171AC905A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7455F6C2-723A-4E52-847B-C0A171AC905A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7455F6C2-723A-4E52-847B-C0A171AC905A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7455F6C2-723A-4E52-847B-C0A171AC905A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B8D9ED-A9B8-4228-8D17-C47D5E189B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B8D9ED-A9B8-4228-8D17-C47D5E189B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B8D9ED-A9B8-4228-8D17-C47D5E189B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B8D9ED-A9B8-4228-8D17-C47D5E189B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9985C43A-BBED-4945-83BB-7B57A9066A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9985C43A-BBED-4945-83BB-7B57A9066A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9985C43A-BBED-4945-83BB-7B57A9066A4F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9985C43A-BBED-4945-83BB-7B57A9066A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9985C43A-BBED-4945-83BB-7B57A9066A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9985C43A-BBED-4945-83BB-7B57A9066A4F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{65F55DCB-33FA-41A1-AC86-DEB104F76E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F55DCB-33FA-41A1-AC86-DEB104F76E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F55DCB-33FA-41A1-AC86-DEB104F76E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F55DCB-33FA-41A1-AC86-DEB104F76E14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F90FE8-38AE-4867-8301-76F6D358908B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F90FE8-38AE-4867-8301-76F6D358908B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F90FE8-38AE-4867-8301-76F6D358908B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F90FE8-38AE-4867-8301-76F6D358908B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E9A330-A5B0-4F85-864E-07B92D158832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E9A330-A5B0-4F85-864E-07B92D158832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E9A330-A5B0-4F85-864E-07B92D158832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E9A330-A5B0-4F85-864E-07B92D158832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11FB70D6-F7CD-44C8-A9AC-2CCE11A73E6D}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/lmlopezl
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = pryRentaCarros.Broker\\pryRentaCarros.Broker.csproj
+		SccProjectName1 = pryRentaCarros.Broker
+		SccLocalPath1 = pryRentaCarros.Broker
+		SccProjectUniqueName2 = pryRentaCarros.BusinessRule\\pryRentaCarros.BusinessRule.csproj
+		SccProjectName2 = pryRentaCarros.BusinessRule
+		SccLocalPath2 = pryRentaCarros.BusinessRule
+		SccProjectUniqueName3 = pryRentaCarros.DataBase\\pryRentaCarros.DataBase.sqlproj
+		SccProjectName3 = pryRentaCarros.DataBase
+		SccLocalPath3 = pryRentaCarros.DataBase
+		SccProjectUniqueName4 = pryRentaCarros.Model\\pryRentaCarros.Model.csproj
+		SccProjectName4 = pryRentaCarros.Model
+		SccLocalPath4 = pryRentaCarros.Model
+		SccProjectUniqueName5 = pryRentaCarros.NUnit\\pryRentaCarros.NUnit.csproj
+		SccProjectName5 = pryRentaCarros.NUnit
+		SccLocalPath5 = pryRentaCarros.NUnit
+		SccProjectUniqueName6 = pryRentaCarros.WebApi\\pryRentaCarros.WebApi.csproj
+		SccProjectName6 = pryRentaCarros.WebApi
+		SccLocalPath6 = pryRentaCarros.WebApi
+		SccProjectUniqueName7 = pryRentaCarros.WebApiHttps\\pryRentaCarros.WebApiHttps.csproj
+		SccProjectName7 = pryRentaCarros.WebApiHttps
+		SccLocalPath7 = pryRentaCarros.WebApiHttps
+	EndGlobalSection
+EndGlobal

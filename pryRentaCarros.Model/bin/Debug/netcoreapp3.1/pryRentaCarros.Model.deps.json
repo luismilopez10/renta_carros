@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pryRentaCarros.Model/1.0.0": {
+        "runtime": {
+          "pryRentaCarros.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pryRentaCarros.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.DataBase\bin\Debug\pryRentaCarros.DataBase.dacpac
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.DataBase\bin\Debug\pryRentaCarros.DataBase.dll
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.DataBase\bin\Debug\pryRentaCarros.DataBase.pdb
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.DataBase\obj\Debug\Model.xml
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.DataBase\obj\Debug\refactor.xml
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.DataBase\obj\Debug\postdeploy.sql
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.DataBase\obj\Debug\predeploy.sql
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.DataBase\obj\Debug\pryRentaCarros.DataBase.dll
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.DataBase\obj\Debug\pryRentaCarros.DataBase.pdb

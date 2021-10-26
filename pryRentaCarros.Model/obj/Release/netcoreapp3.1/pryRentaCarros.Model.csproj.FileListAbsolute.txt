@@ -1,0 +1,9 @@
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Model\bin\Release\netcoreapp3.1\pryRentaCarros.Model.deps.json
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Model\bin\Release\netcoreapp3.1\pryRentaCarros.Model.dll
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Model\bin\Release\netcoreapp3.1\pryRentaCarros.Model.pdb
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Model\obj\Release\netcoreapp3.1\pryRentaCarros.Model.csprojAssemblyReference.cache
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Model\obj\Release\netcoreapp3.1\pryRentaCarros.Model.AssemblyInfoInputs.cache
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Model\obj\Release\netcoreapp3.1\pryRentaCarros.Model.AssemblyInfo.cs
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Model\obj\Release\netcoreapp3.1\pryRentaCarros.Model.csproj.CoreCompileInputs.cache
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Model\obj\Release\netcoreapp3.1\pryRentaCarros.Model.dll
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.Model\obj\Release\netcoreapp3.1\pryRentaCarros.Model.pdb

@@ -1,0 +1,14 @@
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.BusinessRule\bin\Release\netcoreapp3.1\pryRentaCarros.BusinessRule.deps.json
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.BusinessRule\bin\Release\netcoreapp3.1\pryRentaCarros.BusinessRule.dll
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.BusinessRule\bin\Release\netcoreapp3.1\pryRentaCarros.BusinessRule.pdb
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.BusinessRule\bin\Release\netcoreapp3.1\pryRentaCarros.Broker.dll
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.BusinessRule\bin\Release\netcoreapp3.1\pryRentaCarros.Model.dll
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.BusinessRule\bin\Release\netcoreapp3.1\pryRentaCarros.Broker.pdb
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.BusinessRule\bin\Release\netcoreapp3.1\pryRentaCarros.Model.pdb
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.BusinessRule\obj\Release\netcoreapp3.1\pryRentaCarros.BusinessRule.csprojAssemblyReference.cache
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.BusinessRule\obj\Release\netcoreapp3.1\pryRentaCarros.BusinessRule.AssemblyInfoInputs.cache
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.BusinessRule\obj\Release\netcoreapp3.1\pryRentaCarros.BusinessRule.AssemblyInfo.cs
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.BusinessRule\obj\Release\netcoreapp3.1\pryRentaCarros.BusinessRule.csproj.CoreCompileInputs.cache
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.BusinessRule\obj\Release\netcoreapp3.1\pryRentaCarros.BusinessRule.csproj.CopyComplete
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.BusinessRule\obj\Release\netcoreapp3.1\pryRentaCarros.BusinessRule.dll
+D:\Gestion Carros Electricos\slnRentaCarros\pryRentaCarros.BusinessRule\obj\Release\netcoreapp3.1\pryRentaCarros.BusinessRule.pdb
